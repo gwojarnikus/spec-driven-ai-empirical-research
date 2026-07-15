@@ -1,0 +1,10 @@
+warstwa,etap_pl,mechanizm_pl,zamraza_pl,ryzyko_pl,etap_en,stage_en,freezes_en,risk_en
+L1,Design freeze,PAP w rejestrze (AEA/OSF),rejestr PAP: hipotezy + plan,HARKing (hipotezy po wynikach),Design freeze,Registered PAP (AEA/OSF),hypotheses + analysis plan,HARKing (hypotheses after results)
+L2,Design freeze,deklaracja rodziny testów,rodzina hipotez + korekcja MHT,zbyt wiele testów bez korekcji,Design freeze,test-family declaration,hypothesis family + MHT correction,untamed multiplicity
+L4,Data freeze,snapshot danych point-in-time,dostawca + wersja + data ekstrakcji,"look-ahead, vendor definitions",Data freeze,point-in-time data snapshot,vendor + version + extraction date,"look-ahead, vendor definitions"
+L4,Data freeze,deklaracja uniwersum,podmioty wypadłe + reguła,survivorship bias,Data freeze,universe declaration,delisted entities + rule,survivorship bias
+L4,Data freeze,wersja vintage szeregu,real-time database vintage,rewizje danych makro,Data freeze,series vintage,real-time database vintage,macro data revisions
+L3,Analysis artifacts,kontener + pipeline,środowisko + kod ekonometryczny,nieodtwarzalne obliczenia,Analysis artifacts,container + pipeline,environment + econometric code,non-reproducible computation
+L6,Analysis artifacts,log promptów/modeli AI,prompt + wersja modelu,ukryty udział AI (np. ABM),Analysis artifacts,AI prompt/model log,prompt + model version,hidden AI involvement (e.g. ABM)
+L5,Submission,replication package (AEA),pakiet danych/kodu,brak downstream replikacji,Submission,replication package (AEA),data/code package,no downstream replication
+L7,(przekrojowa),kryterium akceptacji,"jakość planu, nie wynik",publication bias,(cross-cutting),acceptance criterion,"plan quality, not result",publication bias

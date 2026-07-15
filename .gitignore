@@ -1,0 +1,7 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+# Pelne teksty zza paywalla NIE naleza do repo / paywalled full texts do not belong here
+**/pelne_teksty/
+**/pdfs/

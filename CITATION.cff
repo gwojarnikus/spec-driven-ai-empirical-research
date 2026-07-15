@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the FSAIM position note and this review article."
+title: "Spec-Driven Artificial Intelligence for Empirical Research: A Scoping Review and an Architecture of Epistemic Control - Replication Package"
+authors:
+  - family-names: Wojarnik
+    given-names: Grzegorz
+    orcid: "https://orcid.org/0000-0001-6946-547X"
+    affiliation: "University of Szczecin, Institute of Economics and Finance"
+type: dataset
+year: 2026
+license: CC-BY-NC-4.0
+references:
+  - type: article
+    title: "FSAIM: Spec-driven AI as a Governance Layer for Empirical Research - A Position Note"
+    authors:
+      - family-names: Wojarnik
+        given-names: Grzegorz
+    year: 2026
+    doi: 10.2139/ssrn.6853581

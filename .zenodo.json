@@ -1,0 +1,33 @@
+{
+  "title": "Spec-Driven Artificial Intelligence for Empirical Research: A Scoping Review and an Architecture of Epistemic Control - Replication Package",
+  "description": "<p>Replication package for the scoping-review article written under the spec-driven AI methodology (FSAIM). Contains the screened corpus (582 works), the coding sheet (16-field interpretive scheme; 41 works coded from full text, incl. a 13-work economics subsample), result tables, appendix materials (search log, calibration, cross-model coding validation and human adjudication, PRISMA-ScR checklist), the PRISMA / layer-map / SDD-workflow figures, an AI provenance log, and the reference manuscript (PL and EN PDF). Full texts of cited works are not redistributed (copyright); each is locatable by DOI in data/corpus_screened_in.csv and references.bib.</p><p>Methodology position note: Wojarnik, G. (2026), SSRN, doi:10.2139/ssrn.6853581.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-NC-4.0",
+  "creators": [
+    {
+      "name": "Wojarnik, Grzegorz",
+      "affiliation": "University of Szczecin, Institute of Economics and Finance",
+      "orcid": "0000-0001-6946-547X"
+    }
+  ],
+  "keywords": [
+    "reproducibility",
+    "meta-science",
+    "preregistration",
+    "research transparency",
+    "AI-assisted research",
+    "spec-driven development",
+    "scoping review",
+    "economics and finance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.2139/ssrn.6853581",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "language": "eng"
+}
