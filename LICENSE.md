@@ -1,7 +1,7 @@
 # License - FSAIM (fin-sdd-ai-method)
 
 > **Decision:** **non-commercial** use. Commercial use is prohibited without separate, written consent from the author.
-> **Author / rights holder:** Grzegorz Wojarnik (grzegorz.wojarnik@gmail.com).
+> **Author / rights holder:** Grzegorz Wojarnik (grzegorz.wojarnik@usz.edu.pl).
 > **Date:** 2026-05-30.
 
 This project contains two types of content, covered by two non-commercial licenses.
@@ -41,7 +41,7 @@ When citing the methodology, provide: *FSAIM - A Spec-Driven AI Methodology for 
 
 ## 5. Commercial licensing
 
-For a commercial license or an exception, contact: **grzegorz.wojarnik@gmail.com**.
+For a commercial license or an exception, contact: **grzegorz.wojarnik@usz.edu.pl**.
 
 ---
 
